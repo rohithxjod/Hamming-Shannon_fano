@@ -204,8 +204,9 @@ print("=" * 60)
 ```
 # Calculation:
 
-<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/92c48761-7708-4a6a-a762-5e815e3f84ef" />
-<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/981f9895-f8ab-401c-b003-b6c355912480" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-05-16 at 10 20 31 AM" src="https://github.com/user-attachments/assets/3f6ce512-facc-4b9b-9052-c4fba8f019e1" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-16 at 10 20 31 AM (1)" src="https://github.com/user-attachments/assets/e05dacca-3d74-45a7-91b4-92a29cb445f7" />
+
 
 # Output
 ```
